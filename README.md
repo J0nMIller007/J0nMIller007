@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @J0nMIller007
-- 👀 Estou de olho em você 
-- 🌱 Plantas hmmmm
-- 💞️ Não tenho um amor ainda, só ilusões 
-- 📫 toma
+###Boas vindas, meu perfil de perfil
 
-<!---
-RESPEITA MINHA HISTÓRIA
---->
+Meu nome é Jp Katayama
+
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou desenvolvendo no JavaScript
+- Utilizo sabedoria para fortificar a minha mente, escola é o de menos
+
+  ![](https://media.tenor.com/UuEwdm1plLwAAAAC/spongebob-spongebob-squarepants.gif)
+  
